@@ -7,3 +7,8 @@ Juan Pablo Bedoya
 PO
 Medellín, Antioquia
 bedoya.pablo.7@gmail.com
+
+Juan Esteban Aristizabal
+Analista
+Medellín, Antioquia
+jesteban.aristizabal@udea.edu.co
